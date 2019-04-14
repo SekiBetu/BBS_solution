@@ -11,5 +11,5 @@ steamcn.html
 
 # 2
 
-while : ;do wget -x --load-cookies cookies.txt "https://steamcn.com/"; sleep 900; done;
+while : ;do wget -x --load-cookies cookies.txt "https://steamcn.com/"; sleep 60; done;
 
