@@ -1,6 +1,6 @@
 # 1
 
-steamcn.html
+直接运行本项目中的附件[steamcn.html](https://github.com/zhz1237ok/STCN_solution/blob/master/SteamCN.html)
 
 <html>
 <head><meta http-equiv="refresh" content="5"></head>
