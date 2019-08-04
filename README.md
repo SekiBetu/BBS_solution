@@ -9,3 +9,5 @@
 
 <pre>while : ;do wget -x --load-cookies cookies.txt "https://steamcn.com/"; sleep 310; done;</pre>
 
+<pre>while : ;do wget -x --load-cookies cookies.txt "https://bbs.saraba1st.com/2b/forum-6-1.html"; sleep 310; done;</pre>
+
