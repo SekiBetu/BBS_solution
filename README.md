@@ -4,8 +4,7 @@
 
 # 2
 
-安装Screen
-登录steamcn F12提取自己的cookies FTP传输到服务器
+安装Screen 登录相应论坛首页 F12提取自己的cookies FTP传输到服务器
 
 SteamCN：
 
