@@ -1,6 +1,6 @@
 # 1
 
-直接运行本项目中的附件[BBS.html](https://github.com/zhz1237ok/STCN_solution/blob/master/BBS.html)
+修改附件里的网址保存后直接运行本项目中的附件[BBS.html](https://raw.githubusercontent.com/zhz1237ok/BBS_solution/master/BBS.html)
 
 # 2
 
