@@ -12,5 +12,5 @@ SteamCN：
 
 S1stage：
 
-<pre>while : ;do wget -x --load-cookies cookies.txt "https://bbs.saraba1st.com/2b/forum-6-1.html"; sleep 600; done;</pre>
+<pre>while : ;do wget -x --load-cookies cookies.txt "https://bbs.saraba1st.com/2b/forum-151-1.html"; sleep 600; done;</pre>
 
