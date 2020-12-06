@@ -1,10 +1,8 @@
-# 1
+# 方法一
 
-修改附件里的网址保存后直接运行本项目中的附件[BBS.html](https://raw.githubusercontent.com/zhz1237ok/BBS_solution/master/BBS.html)
+修改附件里的网址保存后直接运行本项目中的附件[BBS.html](https://raw.githubusercontent.com/SekiBetu/BBS_solution/master/BBS.html)
 
-# 2
-
-安装Screen 登录相应论坛首页 F12提取自己的cookies FTP传输到服务器
+# 方法二
 
 SteamCN：
 
