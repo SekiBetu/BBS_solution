@@ -1,6 +1,6 @@
 # 方法一
 
-修改附件里的网址保存后直接运行本项目中的附件[BBS.html](https://raw.githubusercontent.com/SekiBetu/BBS_solution/master/BBS.html)
+修改附件里的网址保存后直接运行本项目中的附件[BBS.html](https://raw.githubusercontent.com/SekiBetu/Forum-Idle-Trick/master/BBS.html)
 
 # 方法二
 
